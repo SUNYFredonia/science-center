@@ -1,0 +1,44 @@
+permalink: /:year/:month/:day/:title 
+
+pygments: true
+
+markdown: kramdown
+
+title : Fredonia Science Center
+tagline: 
+author : 
+  name : Fredonia
+  email : webmaster@fredonia.edu
+  github : SUNYFredonia
+  twitter : SUNYFredonia
+  web : http://www.fredonia.edu
+
+production_url : http://sunyfredonia.github.io/science-center
+
+baseurl : http://sunyfredonia.github.io/science-center
+
+ 
+comments :
+  provider : disqus
+  disqus :
+    short_name : 
+   
+        
+analytics :
+  google : 
+    tracking_id : ''
+
+
+authors:
+  ngunner:
+    name: Nicholas Gunner
+    display_name: Nicholas Gunner
+    bio: New Media Manager at SUNY Fredonia. Multimedia Storyteller.
+    image: http://orbitist.s3.amazonaws.com/_toplevel/images/profile-images/ngunner.jpg
+    email: gunner@fredonia.edu
+    web: http://www.nicholasgunner.com
+    twitter: nicholas_gunner
+    github: ngunner
+   
+  
+timezone : America/New_York
